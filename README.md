@@ -1,5 +1,4 @@
 # Learning about Version Control
 
 Author: Yun Tian
-Solving merge conflicts is soooooo hard!
-
+Solving merge conflicts is soooooo hard!No
